@@ -84,7 +84,7 @@
 <br>
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&show_icons=true&include_all_commits=true&count_public=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&show_icons=true&include_all_commits=true&count_public=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&layout=compact&langs_count=6"/>
 </div>
 
