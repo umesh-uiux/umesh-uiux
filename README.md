@@ -4,9 +4,9 @@
 <br>
 
 
-- 🌱 I’m currently Working as WordPress developer. Also learning Web Development and other Programming Language.
+- 🌱 I’m Currently Working as WordPress Developer.
 - 📫 How to reach me **shailmehta25@gmail.com**
-- ⚡ Interests :-  Food🍔, Travel✈️,  Reading📚
+- ⚡ Interests :-  Food🍔, Travel✈️, Reading📚
 <br>
 <h2 align="center">Knowledge Base</h2>
 <div align="center">
