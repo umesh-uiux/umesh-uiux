@@ -6,7 +6,7 @@
 <br>
 
 - 🌱 I’m Currently Working as WordPress Developer.
-- 📫 How to reach me **shailmehta25@gmail.com**
+- 📫 Reach me :-  **shailmehta25@gmail.com**
 - ⚡ Interests :-  Food🍔, Travel✈️, Reading📚
 <br>
 
