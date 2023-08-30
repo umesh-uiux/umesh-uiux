@@ -10,8 +10,7 @@
 - ⚡ Interests :-  Food🍔, Travel✈️, Reading📚
 <br>
 
-<br>
-<h2 align="center">📧 Connect with me:</h2>
+<h2 align="center">📧 Stay Connected:</h2>
 <div align="center">
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shailmehta25)
@@ -22,13 +21,14 @@
 </div>
 
 <br>
-<br>
 
-<div align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&show_icons=true&theme=dark&locale=en" alt="Shail Mehta" /></p>
-</div>
+<h2 align="center">📈 My GitHub Stats:</h2>
 
-<br>
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 <br>
 
 <h3 align="center">Love From India ❤️</h3>
