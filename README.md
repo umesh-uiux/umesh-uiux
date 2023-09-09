@@ -25,8 +25,10 @@
 <h2 align="center">📈 My GitHub Stats:</h2>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <a href="https://github.com/shail-mehta">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" />
+  </a>
 </p>
 
 <br>
