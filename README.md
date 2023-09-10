@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shail Mehta</h1><br>
-<h3 align="center">A WordPress Developer💻 From India❤️</h3>
+<h3 align="center">A WordPress Developer From India💻❤️</h3>
 
 <br>
 
