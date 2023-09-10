@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shail Mehta</h1><br>
-<h3 align="center">A WordPress Developer 💻</h3>
+<h3 align="center">A WordPress Developer💻 From India❤️</h3>
 
-<br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=shail-mehta&label=Profile%20views&color=0e75b6&style=flat" alt="shail-mehta" /> </p>
 <br>
 
 - 🌱 I’m Currently Working as WordPress Developer.
@@ -32,6 +30,3 @@
 </p>
 
 <br>
-
-<h3 align="center">Love From India ❤️</h3>
-
