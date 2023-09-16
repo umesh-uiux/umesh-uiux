@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m Working as WordPress Developer.
+- 🌱 I’m Working as WordPress Developer
 - 🔭 I’m Currently Learning about Full Site Editing
 - 📫 Reach me :-  **shailmehta25@gmail.com**
 - ⚡ Interests :-  Food🍔, Travel✈️, Reading📚
