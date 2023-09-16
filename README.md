@@ -24,8 +24,8 @@
 <h2 align="center">📈 My GitHub Stats:</h2>
 
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" /></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" target="_blank" /></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" target="_blank" /></a>
 </p>
 
 <br>
