@@ -3,7 +3,8 @@
 
 <br>
 
-- 🌱 I’m Currently Working as WordPress Developer.
+- 🌱 I’m Working as WordPress Developer.
+- 🔭 I’m Currently Learning about Full Site Editing
 - 📫 Reach me :-  **shailmehta25@gmail.com**
 - ⚡ Interests :-  Food🍔, Travel✈️, Reading📚
 <br>
@@ -23,10 +24,8 @@
 <h2 align="center">📈 My GitHub Stats:</h2>
 
 <p align="center">
-  <a href="https://github.com/shail-mehta">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" />
-  </a>
+    <a href="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" /></a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" /></a>
 </p>
 
 <br>
