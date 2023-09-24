@@ -1,16 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shail Mehta</h1><br>
-<h3 align="center">A WordPress Developer From India💻❤️</h3>
+<h1 align="left">Hi 👋, I'm Shail Mehta</h1><br>
 
-<br>
-
-- 🌱 I’m Working as WordPress Developer
-- 🔭 I’m Currently Learning about Full Site Editing
+- 🌱 I am Working as a WordPress Developer With Experience in Theme Development, Plugin Development & Also have Expertise with different Page Builders. (Elementor, Beaver Builder, Fusion Builder, Thrive Builder, WP Bakery Visual Composer, Divi Builder)
+- 🔭 I’m Currently Learning about Full Site Editing & Gutenberg Custom Block Developement
 - 📫 Reach me :-  **shailmehta25@gmail.com**
-- ⚡ Interests :-  Food🍔, Travel✈️, Reading📚
-<br>
 
-<h2 align="center">📧 Stay Connected:</h2>
-<div align="center">
+<h2 align="left">🌏 Find Me:</h2>
+<div align="left">
  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shailmehta25)
 [![image](https://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/shailu25/) 
@@ -19,13 +14,10 @@
 
 </div>
 
-<br>
+<h2 align="left">📊 My GitHub Stats:</h2>
 
-<h2 align="center">📈 My GitHub Stats:</h2>
+<div align="left">
+     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" /></a>
+     <a href="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" /></a>
+</div>
 
-<p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=shail-mehta&theme=aura_dark&show_icons=true" /></a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=aura_dark" /></a>
-</p>
-
-<br>
