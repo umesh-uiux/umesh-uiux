@@ -21,3 +21,9 @@
      <a href="https://github-readme-stats.vercel.app/api?username=umesh-uiux&theme=aura_dark&show_icons=true" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=umesh-uiux&theme=aura_dark&show_icons=true" /></a>
 </div>
 
+<h2 align="left">📊 My GitHub Badges:</h2>
+<a align="left" href="https://github-profile-trophy.vercel.app/?username=umesh-uiux&theme=aura_dark&show_icons=true" target="_blank">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=umesh-uiux&theme=aura_dark" alt="umesh-uiux" />
+</a>
+
+
